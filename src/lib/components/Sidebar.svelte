@@ -332,7 +332,7 @@
   .import-btn:hover:not(:disabled) {
     background: var(--accent-hover);
     transform: translateY(-1px);
-    box-shadow: 0 4px 16px rgba(124, 111, 224, 0.25);
+    box-shadow: 0 4px 16px rgba(59, 130, 246, 0.25);
   }
   .import-btn:active:not(:disabled) {
     transform: translateY(0);

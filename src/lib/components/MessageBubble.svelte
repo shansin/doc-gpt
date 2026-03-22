@@ -131,7 +131,7 @@
     margin-top: 2px;
   }
   .avatar.user {
-    background: rgba(124, 111, 224, 0.22);
+    background: rgba(59, 130, 246, 0.22);
     color: var(--lavender);
   }
   .bubble-wrap {
@@ -284,7 +284,7 @@
     gap: 6px;
     padding: 5px 12px;
     background: var(--accent-subtle);
-    border: 1px solid rgba(124, 111, 224, 0.15);
+    border: 1px solid rgba(59, 130, 246, 0.15);
     border-radius: var(--radius-sm);
     font-size: 11px;
     font-family: var(--font-sans);
